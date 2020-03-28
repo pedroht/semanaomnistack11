@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "API realizada na Semana Omnistack 11 para o aplicativo 'Be a Hero'",
+  "main": "index.js",
+  "author": "Pedro Henrique",
+  "license": "MIT",
+  "scripts": {
+    "start": "src/index.js",
+    "dev": "nodemon src/index.js",
+    "migrate": "npx knex migrate:latest",
+    "rollback": "npx knex migrate:rollback"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
