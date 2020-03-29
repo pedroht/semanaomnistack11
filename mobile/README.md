@@ -1,0 +1,24 @@
+# Quarto dia
+
+- [x] Instalando Expo
+- [x] Criando projeto React Native
+- [ ] Executando projeto
+  - [x] No celular
+  - [ ] Emuladores
+  - [x] Expo Snack
+- [ ] Diferenças para o ReactJS
+  - [x] Elementos HTML
+  - [x] Semântica
+  - [ ] Estilização
+    - [x] Flexbox
+    - [x] Propriedades
+    - [x] Herança de estilos
+    - [x] Estilização própria
+- [x] Estrutura de pastas
+- [x] Ícone e Splash Screen
+- [x] Configurando navegação
+- [x] Página de casos
+- [x] Detalhe do caso
+- [x] Abrindo Whatsapp & E-mail
+- [x] Conexão com a API
+- [ ] Enviando projeto ao Github
