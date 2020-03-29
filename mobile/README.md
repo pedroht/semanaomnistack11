@@ -6,10 +6,10 @@
   - [x] No celular
   - [ ] Emuladores
   - [x] Expo Snack
-- [ ] Diferenças para o ReactJS
+- [x] Diferenças para o ReactJS
   - [x] Elementos HTML
   - [x] Semântica
-  - [ ] Estilização
+  - [x] Estilização
     - [x] Flexbox
     - [x] Propriedades
     - [x] Herança de estilos
@@ -21,4 +21,4 @@
 - [x] Detalhe do caso
 - [x] Abrindo Whatsapp & E-mail
 - [x] Conexão com a API
-- [ ] Enviando projeto ao Github
+- [x] Enviando projeto ao Github
